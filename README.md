@@ -46,10 +46,15 @@ Raw SQL queries are used to fetch data from the database.
 All calculations are done in-memory with pandas.
 
 ## Project Structure
+
 daily-metrics/
+
 ├── metrics_calculator.py        # Core metrics calculation functions
+
 ├── mock_data.py                 # Mock data generation for testing
+
 ├── main.py                      # Main script to generate all metrics
+
 ├── requirements.txt             # Python package dependencies
 ├── secrets.yaml.example         # Example configuration file for database connection
 ├── README.md                    # Project documentation
