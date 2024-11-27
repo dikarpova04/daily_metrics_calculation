@@ -2,6 +2,8 @@
 This project is designed to calculate and analyze key performance metrics for a digital platform (e.g., a streaming service or cinema platform). It fetches data from PostgreSQL databases, processes it, and generates comprehensive insights that can be used for reporting or automation, such as sending daily updates to a Telegram bot.
 # Key Features
 
+![image](https://github.com/user-attachments/assets/e317026e-91e6-4faf-aa33-3e59362ebfea)
+
 ### 1. Data Retrieval:
 - Fetches data from PostgreSQL database tables:
 `central_cinema_user_payments`: User payments data.
