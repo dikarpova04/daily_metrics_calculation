@@ -50,8 +50,7 @@ All calculations are done in-memory with pandas.
 daily-metrics/
 - `metrics_calculator.py`        # Core metrics calculation functions
 - `main.py`                      # Main script to generate all metrics
-- `requirements.txt`             # Python package dependencies
-- `secrets.yaml.example`         # Example configuration file for database connection
+- `secrets.yaml.enc`             # Configuration file for database connection
 - `README.md`                    # Project documentation
 
 
